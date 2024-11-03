@@ -6,21 +6,21 @@
 
 
 ## 1️⃣ libft 
-### 재사용 가능한 나만의 라이브러리 만들기
+### [재사용 가능한 나만의 라이브러리 만들기](https://www.notion.so/Libft-1f36b5ebe74e4f608673d72efaba1743)
 * C 라이브러리 함수들을 C언어로 직접 구현하여 나만의 라이브러리를 만드는 과제
 
 
 ## 2️⃣ ft_printf
-### printf 함수 구현
+### [printf 함수 구현](https://www.notion.so/ft_printf-6d51c7e8e1f84a2a8f42cf1bf02bff74)
 * stdio.h의 printf 함수를 가변 파라미터를 활용하여 직접 구현하는 과제
 
 
 ## 3️⃣ get_next_line
-### 파일 디스크립터로부터 읽어온 하나의 라인을 반환하는 함수 작성
+### [파일 디스크립터로부터 읽어온 하나의 라인을 반환하는 함수 작성](https://www.notion.so/Get_next_line-ce130298938e43c9935ff8ea32fb5653)
 
 
 ## 4️⃣ push_swap
-### 두 개의 스택(A, B)에 들어있는 숫자들을 주어진 연산들을 활용하여 스택A에 들어있는 숫자를 오름차순으로 정렬하기
+### [두 개의 스택(A, B)에 들어있는 숫자들을 주어진 연산들을 활용하여 스택A에 들어있는 숫자를 오름차순으로 정렬하기](https://www.notion.so/Push_swap-0682826102ec42be9365a963f585810c)
 #### 주어진 연산
 * sa: A의 가장 위에 있는 두 원소의 위치를 서로 바꾼다.
 * sb: B의 가장 위에 있는 두 원소의 위치를 서로 바꾼다.
@@ -36,50 +36,59 @@
 #### 알고리즘
 Quick sort 알고리즘을 기반으로 스택을 3블록으로 나누어 정렬한 후 블록을 정렬하여 최소한의 연산이 사용되도록 최적화를 함
 
+## 5️⃣ born2beroot
+### [Linex 환경 설정](https://www.notion.so/Born2beroot-6fd77f8eadfe4692ba421d60c0ff1a2f)
+* SUDO
+* UFW
+* SSH
 
-## 5️⃣ pipex
-### Shell의 파이프(|)와 동일하게 동작하는 함수 만들기
+## 6️⃣ pipex
+### [Shell의 파이프(|)와 동일하게 동작하는 함수 만들기](https://www.notion.so/PIPEX-28f17bb7bb33449ba5e9d386a77f759d)
 * 부모-자식 프로세스간 연결하기
 * 사용 가능한 함수 : fork, pipe, access, open, close, execve, perror, waitpid
 
-## 6️⃣ so_long
-### 2D 게임 만들기
+## 7️⃣ so_long
+### [2D 게임 만들기](https://www.notion.so/So_long-000e6f72c4d04313be71b5841c41ed7b)
 * 42에서 제공하는 miniLibX를 활용하여 게임 제작
 * 맵 파일의을 검증 후 실행
 * 맵 파일을 통해 탈출구(E), 수집품(C), 플레이어(P), 벽(1), 필드(0) 배치
 * 플레이어가 모든 수집품을 수집 후 탈출하면 성공
 
-## 7️⃣ philosophers
-### 운영체제에서 유명한 문제인 식사하는 철학자 문제를 Thread, Mutex로 구현
+## 8️⃣ philosophers
+### [식사하는 철학자](https://www.notion.so/Philosophers-701e45321d1340168a92bd52dd9ae78e)
 * Deadlock과 Starvation이 발생하지 않도록 유의
+* Thread, Mutex 등 운영체제의 이해
 
-## 8️⃣ minishell
-### zshell의 일부 기능들을 구현하는 프로젝트
+## 9️⃣ minishell
+### [zshell의 일부 기능들을 구현하는 프로젝트](https://www.notion.so/Minishell-c9ec484d4a044897aad15c3585f91181)
 * 토큰 단위로 명령어 파싱
 * 쉘에서 쉘을 여는 경우를 처리하기 위해 시그널 처리 필요
 * 앞 선 과제의 파이프를 활용하여 다중 파이프 구현
 
-## 9️⃣ minirt
+## 🔟 minirt
 ### 레이 트레이싱을 직접 구현하여 렌더링 엔진 제작
 * 빛, 앰비언트, 카메라, 오브젝트 등의 정보, 위치, 방향을 맵에서 읽어 렌더링
 * 빛, 카메라 등 모든 오브젝트들에 대해 선택 후 이동, 회전, 크기 조정 가능
 * 맵 파싱 필요
 
-## 🔟 cpp_module00 ~ 09
+## 1️⃣1️⃣ cpp_module00 ~ 09
 ### 과제 수행을 하며 C++의 기능과 특징을 학습
 
-## 1️⃣1️⃣ ft_irc
+## 1️⃣2️⃣ netpractice
+### [네트워크, IP, SubnetMask 개념 이해](https://www.notion.so/NetPractice-7576319ae4a4488893cca33cea0e7c4d)
+
+## 1️⃣3️⃣ ft_irc
 ### IRC(Internet Relay Chat) 상용 클라이언트와 소통 가능한 서버 및 봇 구현
 * RFC 문서를 통한 프로토콜 이해
 * 소켓 통신으로 클라이언트들이 정상 작동할 수 있는 서버 구현
 * 봇에게 특정 메세지를 보내어 클라이언트에 없는 기능을 제공
 
-## 1️⃣2️⃣ Inception
-### Docker와 docker-compose를 사용하여 사용자 환경 컨테이너화 하기
+## 1️⃣4️⃣ inception
+### [Docker와 docker-compose를 사용하여 사용자 환경 컨테이너화 하기](https://www.notion.so/inception-3c774b46056a4d2c82bdfdabd02476e0)
 * mariadb, wordpress, nginx 컨테이너화 하여 환경 구분
 * 포트 통신을 통하여 하나의 서비스로 동작
 
-## 1️⃣3️⃣ ft_trenscendence
+## 1️⃣5️⃣ ft_trenscendence
 ### 웹 핑퐁 게임 프로젝트
 * 로그인, 프로필, 친구 추가, 채팅방, 게임, 2차 인증을 포함하는 웹 게임 개발
 * Docker로 프론트엔드, 백엔드 환경을 개별로 구축

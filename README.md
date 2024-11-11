@@ -11,7 +11,7 @@
 
 
 ## 2️⃣ ft_printf
-### [printf 함수 구현]([https://www.notion.so/ft_printf-6d51c7e8e1f84a2a8f42cf1bf02bff74](https://hypnotic-ocelot-c39.notion.site/ft_printf-6d51c7e8e1f84a2a8f42cf1bf02bff74?pvs=4))
+### [printf 함수 구현](https://hypnotic-ocelot-c39.notion.site/ft_printf-6d51c7e8e1f84a2a8f42cf1bf02bff74?pvs=4)
 * stdio.h의 printf 함수를 가변 파라미터를 활용하여 직접 구현하는 과제
 
 

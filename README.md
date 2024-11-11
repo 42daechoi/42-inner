@@ -11,12 +11,12 @@
 
 
 ## 2️⃣ ft_printf
-### [printf 함수 구현](https://www.notion.so/ft_printf-6d51c7e8e1f84a2a8f42cf1bf02bff74)
+### [printf 함수 구현]([https://www.notion.so/ft_printf-6d51c7e8e1f84a2a8f42cf1bf02bff74](https://hypnotic-ocelot-c39.notion.site/ft_printf-6d51c7e8e1f84a2a8f42cf1bf02bff74?pvs=4))
 * stdio.h의 printf 함수를 가변 파라미터를 활용하여 직접 구현하는 과제
 
 
 ## 3️⃣ get_next_line
-### [파일 디스크립터로부터 읽어온 하나의 라인을 반환하는 함수 작성](https://www.notion.so/Get_next_line-ce130298938e43c9935ff8ea32fb5653)
+### [파일 디스크립터로부터 읽어온 하나의 라인을 반환하는 함수 작성]([https://www.notion.so/Get_next_line-ce130298938e43c9935ff8ea32fb5653](https://hypnotic-ocelot-c39.notion.site/Get_next_line-ce130298938e43c9935ff8ea32fb5653?pvs=4))
 
 
 ## 4️⃣ push_swap

@@ -16,11 +16,11 @@
 
 
 ## 3️⃣ get_next_line
-### [파일 디스크립터로부터 읽어온 하나의 라인을 반환하는 함수 작성]([https://www.notion.so/Get_next_line-ce130298938e43c9935ff8ea32fb5653](https://hypnotic-ocelot-c39.notion.site/Get_next_line-ce130298938e43c9935ff8ea32fb5653?pvs=4))
+### [파일 디스크립터로부터 읽어온 하나의 라인을 반환하는 함수 작성](https://www.notion.so/Get_next_line-ce130298938e43c9935ff8ea32fb5653)
 
 
 ## 4️⃣ push_swap
-### [두 개의 스택(A, B)에 들어있는 숫자들을 주어진 연산들을 활용하여 스택A에 들어있는 숫자를 오름차순으로 정렬하기]([https://www.notion.so/Push_swap-0682826102ec42be9365a963f585810c](https://hypnotic-ocelot-c39.notion.site/Push_swap-0682826102ec42be9365a963f585810c?pvs=4))
+### [두 개의 스택(A, B)에 들어있는 숫자들을 주어진 연산들을 활용하여 스택A에 들어있는 숫자를 오름차순으로 정렬하기](https://www.notion.so/Push_swap-0682826102ec42be9365a963f585810c)
 #### 주어진 연산
 * sa: A의 가장 위에 있는 두 원소의 위치를 서로 바꾼다.
 * sb: B의 가장 위에 있는 두 원소의 위치를 서로 바꾼다.

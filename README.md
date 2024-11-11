@@ -48,19 +48,19 @@ Quick sort 알고리즘을 기반으로 스택을 3블록으로 나누어 정렬
 * 사용 가능한 함수 : fork, pipe, access, open, close, execve, perror, waitpid
 
 ## 7️⃣ so_long
-### [2D 게임 만들기](https://www.notion.so/So_long-000e6f72c4d04313be71b5841c41ed7b)
+### [2D 게임 만들기](https://hypnotic-ocelot-c39.notion.site/So_long-000e6f72c4d04313be71b5841c41ed7b?pvs=4)
 * 42에서 제공하는 miniLibX를 활용하여 게임 제작
 * 맵 파일의을 검증 후 실행
 * 맵 파일을 통해 탈출구(E), 수집품(C), 플레이어(P), 벽(1), 필드(0) 배치
 * 플레이어가 모든 수집품을 수집 후 탈출하면 성공
 
 ## 8️⃣ philosophers
-### [식사하는 철학자](https://www.notion.so/Philosophers-701e45321d1340168a92bd52dd9ae78e)
+### [식사하는 철학자](https://hypnotic-ocelot-c39.notion.site/Philosophers-701e45321d1340168a92bd52dd9ae78e?pvs=4)
 * Deadlock과 Starvation이 발생하지 않도록 유의
 * Thread, Mutex 등 운영체제의 이해
 
 ## 9️⃣ minishell
-### [zshell의 일부 기능들을 구현하는 프로젝트](https://www.notion.so/Minishell-c9ec484d4a044897aad15c3585f91181)
+### [zshell의 일부 기능들을 구현하는 프로젝트](https://hypnotic-ocelot-c39.notion.site/Minishell-c9ec484d4a044897aad15c3585f91181?pvs=4)
 * 토큰 단위로 명령어 파싱
 * 쉘에서 쉘을 여는 경우를 처리하기 위해 시그널 처리 필요
 * 앞 선 과제의 파이프를 활용하여 다중 파이프 구현
@@ -75,7 +75,7 @@ Quick sort 알고리즘을 기반으로 스택을 3블록으로 나누어 정렬
 ### 과제 수행을 하며 C++의 기능과 특징을 학습
 
 ## 1️⃣2️⃣ netpractice
-### [네트워크, IP, SubnetMask 개념 이해](https://www.notion.so/NetPractice-7576319ae4a4488893cca33cea0e7c4d)
+### [네트워크, IP, SubnetMask 개념 이해](https://hypnotic-ocelot-c39.notion.site/NetPractice-7576319ae4a4488893cca33cea0e7c4d?pvs=4)
 
 ## 1️⃣3️⃣ ft_irc
 ### IRC(Internet Relay Chat) 상용 클라이언트와 소통 가능한 서버 및 봇 구현
@@ -84,7 +84,7 @@ Quick sort 알고리즘을 기반으로 스택을 3블록으로 나누어 정렬
 * 봇에게 특정 메세지를 보내어 클라이언트에 없는 기능을 제공
 
 ## 1️⃣4️⃣ inception
-### [Docker와 docker-compose를 사용하여 사용자 환경 컨테이너화 하기](https://www.notion.so/inception-3c774b46056a4d2c82bdfdabd02476e0)
+### [Docker와 docker-compose를 사용하여 사용자 환경 컨테이너화 하기](https://hypnotic-ocelot-c39.notion.site/inception-3c774b46056a4d2c82bdfdabd02476e0?pvs=4)
 * mariadb, wordpress, nginx 컨테이너화 하여 환경 구분
 * 포트 통신을 통하여 하나의 서비스로 동작
 

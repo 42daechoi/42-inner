@@ -43,7 +43,7 @@ Quick sort 알고리즘을 기반으로 스택을 3블록으로 나누어 정렬
 * SSH
 
 ## 6️⃣ pipex
-### [Shell의 파이프(|)와 동일하게 동작하는 함수 만들기](https://www.notion.so/PIPEX-28f17bb7bb33449ba5e9d386a77f759d)
+### [Shell의 파이프(|)와 동일하게 동작하는 함수 만들기](https://hypnotic-ocelot-c39.notion.site/PIPEX-28f17bb7bb33449ba5e9d386a77f759d?pvs=4)
 * 부모-자식 프로세스간 연결하기
 * 사용 가능한 함수 : fork, pipe, access, open, close, execve, perror, waitpid
 

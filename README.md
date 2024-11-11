@@ -77,7 +77,7 @@ Quick sort 알고리즘을 기반으로 스택을 3블록으로 나누어 정렬
 ## 1️⃣2️⃣ netpractice
 ### [네트워크, IP, SubnetMask 개념 이해](https://hypnotic-ocelot-c39.notion.site/NetPractice-7576319ae4a4488893cca33cea0e7c4d?pvs=4)
 
-## 1️⃣3️⃣ ft_irc
+## 1️⃣3️⃣ [ft_irc](https://apple-comic-28d.notion.site/ft_irc-26b3cfd289574ca3b5eb0e40ef230e08?pvs=4)
 ### IRC(Internet Relay Chat) 상용 클라이언트와 소통 가능한 서버 및 봇 구현
 * RFC 문서를 통한 프로토콜 이해
 * 소켓 통신으로 클라이언트들이 정상 작동할 수 있는 서버 구현

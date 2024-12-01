@@ -56,7 +56,7 @@ Quick sort 알고리즘을 기반으로 스택을 3블록으로 나누어 정렬
 
 ## 8️⃣ philosophers
 ### [식사하는 철학자](https://hypnotic-ocelot-c39.notion.site/Philosophers-701e45321d1340168a92bd52dd9ae78e?pvs=4)
-* Deadlock, Starvation, Data Race가 발생하지 않도록 유의
+* Deadlock, Data Race가 발생하지 않도록 유의
 * Thread, Mutex 등 운영체제의 이해
 
 ## 9️⃣ minishell
